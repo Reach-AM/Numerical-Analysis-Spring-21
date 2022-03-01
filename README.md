@@ -1,3 +1,3 @@
-# Calculo-Numerico
+# Cálculo-Numerico
 
-Códigos y prácticas de MATLAB para la materia de cálculo numérico
+Códigos y prácticas de MATLAB de Cálculo Numérico
